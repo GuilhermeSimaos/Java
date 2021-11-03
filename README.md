@@ -1,10 +1,8 @@
 # Java
-### Português
----
+## Português
 Repositório criado para exercícios de Java realizados
 
 
 
-### English
----
+## English
 Repository created for solved Java exercises 
