@@ -1,5 +1,3 @@
-package compilation1;
-
 import java.util.Scanner;
 
 public class Compilation1 {
