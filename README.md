@@ -1,4 +1,4 @@
-# Java ☕:
+# Java ☕
 
 ### US 
 This repository was made for academic and portfolio purposes, but any suggestion would be welcome.
